@@ -1,0 +1,28 @@
+.# Maven
+ /target/
+ /.mvn/
+ /.idea/
+ /.vscode/
+
+ # Logs
+ *.log
+
+ # IntelliJ IDEA
+ *.iml
+ *.iws
+ out/
+
+ # Eclipse
+ .project
+ .classpath
+ .settings/
+
+ # OS Files
+ .DS_Store
+ Thumbs.db
+
+ # Spring Boot
+ !/backend/src/main/resources/application.yml
+
+ # Others
+ *.class
